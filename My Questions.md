@@ -45,4 +45,5 @@ Yes, local banks can create new money through the **fractional reserve banking s
 2. The rest (e.g., $900) is lent to a borrower.
 3. This loan creates new money in the form of digital credit, which circulates in the economy.
 This new money is "created" from nowhere in the sense that it's not backed by physical cash, but it is a legitimate form of currency in the banking system. The process is regulated to prevent excessive inflation.
+https://chatgpt.com/share/677f9ce5-eeb4-800d-80e0-52649d052558
 </details>
