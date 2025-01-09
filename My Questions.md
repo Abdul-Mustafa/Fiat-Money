@@ -47,11 +47,13 @@ Yes, local banks can create new money through the **fractional reserve banking s
 This new money is "created" from nowhere in the sense that it's not backed by physical cash, but it is a legitimate form of currency in the banking system. The process is regulated to prevent excessive inflation.
 https://chatgpt.com/share/677f9ce5-eeb4-800d-80e0-52649d052558
 </details>
+---
 ## Question 6: Technically, state banks can produce unlimited money, but they do not because it has consequences. Can you explain these consequences in layman's terms?
 <details>
   <summary>Answer</summary>
   Technically, state banks can print unlimited money, but doing so leads to **inflation**, where money loses its value because there’s too much of it in the economy, which can cause **currency devaluation** and a **loss of confidence** in the economy. It also leads to higher **interest rates**, making borrowing more expensive and slowing economic growth. These consequences can cause **economic instability** and hurt businesses and citizens.
 </details>
+---
 ## Question 7: Are there any resources (free books, videos, courses) that help to understand all of this?
 <details>
   <summary>Answer</summary>
